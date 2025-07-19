@@ -13,7 +13,7 @@ export default function Home() {
         MERN Stack & AI/ML Developer | Java DSA | Open Source | Problem Solver
       </p>
       <a
-  href="/Portfolio/resume.pdf"
+  href="/resume.pdf"
   download
   className="bg-blue-600 text-white px-8 py-3 rounded-lg text-lg hover:bg-blue-700 transition duration-300"
 >
