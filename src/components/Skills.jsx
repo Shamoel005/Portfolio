@@ -7,6 +7,7 @@ import {
   FaJsSquare,
   FaGitAlt,
   FaPython,
+  FaJava,
 } from "react-icons/fa";
 import {
   SiMongodb,
@@ -17,7 +18,6 @@ import {
   SiScikitlearn,
   SiTensorflow,
   SiOpencv,
-  SiJava,
 } from "react-icons/si";
 
 const skills = [
@@ -39,7 +39,7 @@ const skills = [
   { name: "Scikit-learn", icon: <SiScikitlearn className="text-orange-400 text-4xl" /> },
   { name: "TensorFlow", icon: <SiTensorflow className="text-orange-600 text-4xl" /> },
   { name: "OpenCV", icon: <SiOpencv className="text-blue-700 text-4xl" /> },
-  { name: "Java", icon: <SiJava className="text-red-600 text-4xl" /> },
+  { name: "Java", icon: <FaJava className="text-red-600 text-4xl" /> },
 ];
 export default function Skills() {
   return (
