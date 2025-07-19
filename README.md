@@ -20,10 +20,6 @@ It showcases my skills, projects, experience, and contact information.
 
 ---
 
-## 📸 Screenshots
-
-*(Optional)*  
-Include one or more screenshots of the homepage, projects section, or any unique feature.
 
 ---
 
