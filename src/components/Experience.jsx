@@ -4,19 +4,19 @@ const experienceData = [
   {
     title: "Full Stack Developer Intern",
     company: "XYZ Pvt Ltd",
-    date: "June 2024 – August 2024",
+    date: "June 2025 – August 20XX",
     description: "Developed scalable features in a React/Node.js-based dashboard for enterprise clients. Focused on authentication, protected routes, and API integration.",
   },
   {
     title: "Deloitte Virtual Internship (Forage)",
     company: "Deloitte",
-    date: "2024",
+    date: "2025",
     description: "Completed a project simulating a real-time manufacturing dashboard for Daikibo Industrials using modern full-stack tools.",
   },
   {
     title: "B.Tech in Electronics & Communication Engineering",
     company: "NIT Patna",
-    date: "2021 – 2025",
+    date: "2023 – 2027",
     description: "Studying core ECE subjects along with a strong focus on Data Structures, Web Technologies, and AI/ML. Building projects using the MERN stack and Python ML libraries.",
   },
 ];
