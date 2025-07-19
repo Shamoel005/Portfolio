@@ -1,12 +1,89 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 💼 Personal Portfolio Website
 
-Currently, two official plugins are available:
+This is my personal developer portfolio built using **React** and **Tailwind CSS**.  
+It showcases my skills, projects, experience, and contact information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+👉 [Visit Portfolio](https://your-live-site-link.com)  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **Tailwind CSS**
+- **AOS (Animate on Scroll)**
+- **React Icons**
+- **EmailJS** *(for contact form, optional)*
+
+---
+
+## 📸 Screenshots
+
+*(Optional)*  
+Include one or more screenshots of the homepage, projects section, or any unique feature.
+
+---
+
+## 📁 Folder Structure
+
+```
+
+src/
+├── components/
+│   ├── Navbar.jsx
+│   ├── Home.jsx
+│   ├── About.jsx
+│   ├── Skills.jsx
+│   ├── Projects.jsx
+│   ├── Experience.jsx
+│   ├── Contact.jsx
+│   └── Footer.jsx
+├── App.jsx
+└── main.jsx
+
+````
+
+---
+
+## 🧑‍💻 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Shamoel005/Portfolio.git
+cd Portfolio
+````
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the development server
+
+```bash
+npm run dev
+```
+
+---
+
+## 📬 Contact
+
+Feel free to reach out to me via the contact form or:
+
+* **Email**: [farooquishamoel@gmail.com](mailto:your.email@example.com)
+* **LinkedIn**: https://www.linkedin.com/in/md-shamoel/
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+```
+
+
