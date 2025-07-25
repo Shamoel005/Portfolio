@@ -4,8 +4,8 @@ const projectData = [
   {
     title: "E-Commerce Web App",
     description: "A full-featured MERN stack e-commerce site with authentication, cart, payments, and admin dashboard.",
-    github: "https://github.com/yourusername/ecommerce-app",
-    live: "https://ecommerce-demo.vercel.app",
+    github: "https://github.com/Shamoel005/Glamzy",
+    live: "https://glamzy-frontend.onrender.com/",
     tech: ["React", "Node.js", "MongoDB", "Express", "JWT"],
   },
   {
