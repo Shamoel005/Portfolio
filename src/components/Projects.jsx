@@ -9,12 +9,12 @@ const projectData = [
     tech: ["React", "Node.js", "MongoDB", "Express", "JWT"],
   },
   {
-    title: "Employee Management System",
-    description: "Web-based system for managing employees, roles, and leaves with secure login.",
-    github: "https://github.com/yourusername/ems",
-    live: "#",
-    tech: ["React", "Node.js", "MongoDB", "JWT"],
-  },
+  title: "Vibely Chat App",
+  description: "A real-time chat application built with MERN stack featuring secure authentication, user chats, and responsive UI.",
+  github: "https://github.com/yourusername/vibely", // update if needed
+  live: "https://vibely-chat.vercel.app", // or your actual live URL
+  tech: ["React", "Node.js", "MongoDB", "Socket.io", "JWT", "Express"],
+},
 ];
 
 export default function Projects() {
