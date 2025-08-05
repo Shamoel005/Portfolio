@@ -10,7 +10,7 @@ export default function Home() {
         Hi, I'm <span className="text-blue-600 text-10xl" >MD SHAMOEL FAROOQUI</span>
       </h1>
       <p className="text-xl md:text-2xl text-gray-700 mb-6">
-        MERN Stack & AI/ML Developer | Java DSA | Open Source | Problem Solver
+        MERN Stack & AI/ML Developer | DSA in Java | Open Source | Problem Solver
       </p>
       <a
   href="/resume.pdf"
