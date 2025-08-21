@@ -3,19 +3,19 @@ import React from "react";
 const projectData = [
   {
     title: "E-Commerce Web App",
-    description: "A full-featured MERN stack e-commerce site with authentication, cart, payments, and admin dashboard.",
+    description: "Full-featured MERN e-commerce fashion site with responsive UI, AI voice assistant, authentication, cart, payments, and admin dashboard.",
     github: "https://github.com/Shamoel005/Glamzy",
     live: "https://glamzy-frontend.onrender.com/",
-    tech: ["React", "Node.js", "MongoDB", "Express", "JWT"],
-  },
-  {
-    title: "Employee Management System",
-    description: "Web-based system for managing employees, roles, and leaves with secure login.",
-    github: "https://github.com/yourusername/ems",
+    tech: ["React", "Node.js", "MongoDB", "Express", "JWT", "Tailwind CSS", "Firebase OAuth", "Web Speech API", "OpenAI API"],
+},
+{
+    title: "Vibely – Real-time Chat App",
+    description: "Real-time 1:1 chat application with live typing indicators, online status, secure JWT authentication, Cloudinary image uploads, and responsive UI/UX.",
+    github: "https://github.com/yourusername/vibely",
     live: "#",
-    tech: ["React", "Node.js", "MongoDB", "JWT"],
-  },
-];
+    tech: ["React", "Redux Toolkit", "Node.js", "Express", "MongoDB", "Mongoose", "Socket.io", "Tailwind CSS", "Cloudinary"],
+},
+
 
 export default function Projects() {
   return (
