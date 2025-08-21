@@ -16,7 +16,7 @@ const projectData = [
     tech: ["React", "Redux Toolkit", "Node.js", "Express", "MongoDB", "Mongoose", "Socket.io", "Tailwind CSS", "Cloudinary"],
 },
 
-
+//projects
 export default function Projects() {
   return (
     <section id="projects" className="p-10 bg-gradient-to-r from-gray-50 to-blue-100 ">
