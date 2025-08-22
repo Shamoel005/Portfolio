@@ -14,7 +14,7 @@ export default function Navbar() {
 
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-gray-900 text-white shadow p-4 flex justify-between items-center">
-      <h1 className="text-xl font-bold">Shamoel's Portfolio</h1>
+      <h1 className="text-xl font-bold">Portfolio</h1>
       <div className="space-x-6 text-sm sm:text-base">
         <a href="#home" className="hover:text-blue-400 transition">Home</a>
         <a href="#about" className="hover:text-blue-400 transition">About</a>
