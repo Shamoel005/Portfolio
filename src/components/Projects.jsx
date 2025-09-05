@@ -23,8 +23,8 @@ const projectData = [
     title: "Vibely – Real-time Chat App",
     description:
       "Real-time 1:1 chat application with live typing indicators, online status, secure JWT authentication, Cloudinary image uploads, and responsive UI/UX.",
-    github: "https://github.com/yourusername/vibely",
-    live: "#",
+    github: "https://github.com/Shamoel005/Vibely-live-chat",
+    live: "https://vibely-frontend-rdhy.onrender.com/login",
     tech: [
       "React",
       "Redux Toolkit",
