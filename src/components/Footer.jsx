@@ -1,13 +1,3 @@
-// import React from "react";
-
-// export default function Footer() {
-//   return (
-//     <footer className="bg-blue-600 text-white text-center p-4 mt-10">
-//       <p>&copy; {new Date().getFullYear()} MD SHAMOEL FAROQUI. All rights reserved.</p>
-//     </footer>
-//   );
-// }
-
 import React from "react";
 import { motion } from "framer-motion";
 import { FaGithub, FaLinkedin, FaEnvelope, FaHeart, FaCode, FaArrowUp } from "react-icons/fa";
@@ -31,7 +21,7 @@ export default function Footer() {
     },
     {
       icon: SiLeetcode,
-      href: "#", // Add your LeetCode profile
+      href: "https://leetcode.com/u/Shamoel_05/", 
       label: "LeetCode",
       color: "hover:text-orange-300"
     },
