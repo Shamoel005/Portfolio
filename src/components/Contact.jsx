@@ -118,7 +118,7 @@ export default function Contact() {
     },
     {
       icon: SiLeetcode,
-      href: "#", // Add your LeetCode profile
+      href: "#",
       label: "LeetCode",
       color: "hover:text-orange-500"
     },
@@ -352,5 +352,6 @@ export default function Contact() {
           </motion.div>
         </motion.div>
       </div>
-
-      
+    </section>
+  );
+}
