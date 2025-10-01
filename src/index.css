@@ -3,28 +3,41 @@ html {
   scroll-behavior: smooth;
 } */
 @import "tailwindcss";
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
-html {
-  scroll-behavior: smooth;
-}
-@theme {
-  @keyframes float {
-    0%, 100% { 
-      transform: translateY(0px); 
-    }
-    50% { 
-      transform: translateY(-20px); 
-    }
+
+/* Define the float animation */
+@keyframes float {
+  0%, 100% { 
+    transform: translateY(0px); 
   }
-  
+  50% { 
+    transform: translateY(-20px); 
+  }
+}
+
+/* Add the animation as a custom utility */
+@layer utilities {
   .animate-float {
     animation: float 6s ease-in-out infinite;
   }
 }
 
+/* Smooth scrolling */
 html {
   scroll-behavior: smooth;
 }
 
+/* Optional: Add smooth scrolling for all elements */
+* {
+  scroll-behavior: smooth;
+}
 
-
+/* Optional: Reduce motion for accessibility */
+@media (prefers-reduced-motion: reduce) {
+  .animate-float {
+    animation: none;
+  }
+  
+  html {
+    scroll-behavior: auto;
+  }
+}
