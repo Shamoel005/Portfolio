@@ -82,7 +82,7 @@ const certificationsData = [
     title: "LeetCode Competitive Programming",
     issuer: "LeetCode",
     date: "2025",
-    description: "Achieved 1550+ rating with 300+ problems solved in Java, demonstrating ability to optimize complex algorithms for performance and scale.",
+    description: "Achieved 1550+ rating with 500+ problems solved in Java, demonstrating ability to optimize complex algorithms for performance and scale.",
     icon: FaCode,
     color: "yellow"
   }
