@@ -2,7 +2,7 @@
 
 A modern and responsive portfolio website built with React and Tailwind CSS, designed to showcase my skills, projects, professional experience, and ways to connect.
 
-🚀 Live Demo-https://portfolio-2-p4v8.onrender.com/
+🚀 Live Demo-https://portfolio-2-p4v8.onrender.com
 
 🔗 View Portfolio
 
