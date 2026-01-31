@@ -50,8 +50,8 @@ export default function About() {
   const achievements = [
     {
       icon: SiLeetcode,
-      title: "1550+ LeetCode Rating",
-      description: "300+ DSA problems solved in Java",
+      title: "1600+ LeetCode Rating",
+      description: "500+ DSA problems solved in Java",
       color: "orange"
     },
     {
