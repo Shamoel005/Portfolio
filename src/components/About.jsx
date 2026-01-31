@@ -42,7 +42,7 @@ export default function About() {
     {
       category: "Programming & DSA",
       icon: SparklesIcon,
-      items: ["Java (Expert)", "Python", "JavaScript", "1550+ LeetCode", "500+ Problems Solved"],
+      items: ["Java (Expert)", "Python", "JavaScript", "1600+ LeetCode", "500+ Problems Solved"],
       color: "green"
     }
   ];
