@@ -71,13 +71,13 @@ export default function About() {
   const highlights = [
     {
       icon: RocketLaunchIcon,
-      stat: "4+",
+      stat: "5+",
       label: "Production Projects",
       color: "from-blue-500 to-blue-600"
     },
     {
       icon: TrophyIcon,
-      stat: "3+",
+      stat: "5+",
       label: "Certifications",
       color: "from-purple-500 to-purple-600"
     },
